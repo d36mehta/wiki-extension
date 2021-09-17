@@ -1,5 +1,4 @@
-# wiki-extension
-Wikipedia Chrome extension
+# Wikipedia Chrome extension
 
 Simple Chrome extension allows you to select text, right click, select "Discover *word or phrase* on Wikipedia" from the context menu, and then be redirected to that Wikipedia page for the word or phrase.
 
